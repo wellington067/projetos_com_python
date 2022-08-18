@@ -4,8 +4,15 @@ Depois, desenvolva três ou mais objetos para testar o código.
 """
 
 class carro:
-  totalcarros = 20
-  def vende_carro():
+  vendidos = 0
+  carrosvendidos()
+    totalvendidos++
+    
+    return totalvendidos
+    
+
+
+
     
     
   
